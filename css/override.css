@@ -1,0 +1,17 @@
+.wpcf7-text {
+	max-width: 100% !important;
+}
+
+.post-image-bg {
+	display: flex;
+    align-items: center;
+}
+
+/* Fixed post img width
+.void-grid .post-img {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 150px;
+    overflow: hidden;
+}*/
